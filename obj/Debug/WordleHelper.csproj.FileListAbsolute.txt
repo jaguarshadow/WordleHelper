@@ -1,0 +1,7 @@
+C:\Users\starb\source\repos\WordleHelper\WordleHelper\bin\Debug\WordleHelper.exe.config
+C:\Users\starb\source\repos\WordleHelper\WordleHelper\bin\Debug\WordleHelper.exe
+C:\Users\starb\source\repos\WordleHelper\WordleHelper\bin\Debug\WordleHelper.pdb
+C:\Users\starb\source\repos\WordleHelper\WordleHelper\obj\Debug\WordleHelper.csproj.CoreCompileInputs.cache
+C:\Users\starb\source\repos\WordleHelper\WordleHelper\obj\Debug\WordleHelper.exe
+C:\Users\starb\source\repos\WordleHelper\WordleHelper\obj\Debug\WordleHelper.pdb
+C:\Users\starb\source\repos\WordleHelper\WordleHelper\obj\Debug\WordleHelper.csproj.AssemblyReference.cache
